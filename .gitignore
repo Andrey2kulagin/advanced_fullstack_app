@@ -34,5 +34,5 @@ dist/
 *~
 .idea/
 .vscode/
-*.iml
-.DS_Store"env/" 
+*.iml\
+DS_Store"env/"
